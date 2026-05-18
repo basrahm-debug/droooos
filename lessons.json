@@ -1,127 +1,30 @@
 {
   "كفاية الأصول": {
     "icon": "menu_book",
-    "files": [
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/100.mp3",
-        "label": "كفاية الأصول - الدرس 100"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/002.mp3",
-        "label": "كفاية الأصول - الدرس ٢"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/003.mp3",
-        "label": "كفاية الأصول - الدرس ٣"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/004.mp3",
-        "label": "كفاية الأصول - الدرس ٤"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/005.mp3",
-        "label": "كفاية الأصول - الدرس ٥"
-      }
-    ]
+    "baseUrl": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/",
+    "start": 1,
+    "end": 5,
+    "labelPrefix": "كفاية الأصول - الدرس "
   },
   "الدورة الأصولية": {
     "icon": "auto_stories",
-    "files": [
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/006.mp3",
-        "label": "الدورة الأصولية - الدرس ١"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/007.mp3",
-        "label": "الدورة الأصولية - الدرس ٢"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/008.mp3",
-        "label": "الدورة الأصولية - الدرس ٣"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/009.mp3",
-        "label": "الدورة الأصولية - الدرس ٤"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/010.mp3",
-        "label": "الدورة الأصولية - الدرس ٥"
-      }
-    ]
+    "baseUrl": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/",
+    "start": 6,
+    "end": 10,
+    "labelPrefix": "الدورة الأصولية - الدرس "
   },
   "الدورة الفقهية": {
     "icon": "gavel",
-    "files": [
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/011.mp3",
-        "label": "الدورة الفقهية - الدرس ١"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/012.mp3",
-        "label": "الدورة الفقهية - الدرس ٢"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/013.mp3",
-        "label": "الدورة الفقهية - الدرس ٣"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/014.mp3",
-        "label": "الدورة الفقهية - الدرس ٤"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/015.mp3",
-        "label": "الدورة الفقهية - الدرس ٥"
-      }
-    ]
+    "baseUrl": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/",
+    "start": 11,
+    "end": 15,
+    "labelPrefix": "الدورة الفقهية - الدرس "
   },
   "المكاسب": {
     "icon": "payments",
-    "files": [
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/016.mp3",
-        "label": "كتاب المكاسب - الدرس ١"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/017.mp3",
-        "label": "كتاب المكاسب - الدرس ٢"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/018.mp3",
-        "label": "كتاب المكاسب - الدرس ٣"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/019.mp3",
-        "label": "كتاب المكاسب - الدرس ٤"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/020.mp3",
-        "label": "كتاب المكاسب - الدرس ٥"
-      }
-    ]
-     "التاريخ": {
-    "icon": "menu_book",
-    "files": [
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/100.mp3",
-        "label": "كفاية الأصول - الدرس 100"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/002.mp3",
-        "label": "كفاية الأصول - الدرس ٢"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/003.mp3",
-        "label": "كفاية الأصول - الدرس ٣"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/004.mp3",
-        "label": "كفاية الأصول - الدرس ٤"
-      },
-      {
-        "url": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/005.mp3",
-        "label": "كفاية الأصول - الدرس ٥"
-      }
-    ]
-  },
+    "baseUrl": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/",
+    "start": 16,
+    "end": 20,
+    "labelPrefix": "كتاب المكاسب - الدرس "
   }
 }
