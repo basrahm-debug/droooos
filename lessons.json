@@ -1,6 +1,6 @@
 {
   "كفاية الأصول": {
-    "icon": "menu_book",
+    "icon": "auto_stories",
     "baseUrl": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/",
     "start": 1,
     "end": 50,
@@ -14,21 +14,21 @@
     "labelPrefix": "الدورة الأصولية - الدرس "
   },
   "الدورة الفقهية": {
-    "icon": "gavel",
+    "icon": "auto_stories",
     "baseUrl": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/",
     "start": 11,
     "end": 15,
     "labelPrefix": "الدورة الفقهية - الدرس "
   },
   "المكاسب": {
-    "icon": "payments",
+    "icon": "auto_stories",
     "baseUrl": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/",
     "start": 16,
     "end": 20,
     "labelPrefix": "كتاب المكاسب - الدرس "
   },
     "التاريخ": {
-    "icon": "payments",
+    "icon": "auto_stories",
     "baseUrl": "https://howza.net/Sounds/Hi-sotoh/002-Osol/001-kefaya/kefaya-p1-alrowayami/",
     "start": 1,
     "end": 20,
